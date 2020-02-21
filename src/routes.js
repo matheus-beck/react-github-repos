@@ -6,7 +6,7 @@ import Repository from './pages/Repository';
 
 export default function Routes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-github-repos">
       <Switch>
         <Route path="/" exact component={Main} />
         <Route path="/repository/:repository" component={Repository} />

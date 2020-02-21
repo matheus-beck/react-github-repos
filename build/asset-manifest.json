@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-github-repos/static/js/main.ec0486a3.chunk.js",
+    "main.js.map": "/react-github-repos/static/js/main.ec0486a3.chunk.js.map",
+    "runtime-main.js": "/react-github-repos/static/js/runtime-main.72865abe.js",
+    "runtime-main.js.map": "/react-github-repos/static/js/runtime-main.72865abe.js.map",
+    "static/js/2.778005b8.chunk.js": "/react-github-repos/static/js/2.778005b8.chunk.js",
+    "static/js/2.778005b8.chunk.js.map": "/react-github-repos/static/js/2.778005b8.chunk.js.map",
+    "index.html": "/react-github-repos/index.html",
+    "precache-manifest.691ca295c00f3fc220b1fa9ad6092e57.js": "/react-github-repos/precache-manifest.691ca295c00f3fc220b1fa9ad6092e57.js",
+    "service-worker.js": "/react-github-repos/service-worker.js",
+    "static/js/2.778005b8.chunk.js.LICENSE": "/react-github-repos/static/js/2.778005b8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72865abe.js",
+    "static/js/2.778005b8.chunk.js",
+    "static/js/main.ec0486a3.chunk.js"
+  ]
+}
