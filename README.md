@@ -1,4 +1,4 @@
-# 📱 React Github Repos
+# 🖥️ React Github Repos
 
 <p align="center">
   <img alt="GitHub powered by" src="https://img.shields.io/badge/Powered%20by-React.js-blue.svg">
